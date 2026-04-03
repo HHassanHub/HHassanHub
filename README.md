@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Hridoy Hassan
 
 🎯 **Data Analyts| AI | Computer Vision | Deep Learning**
-📍 Germany
+📍 **Germany**
 
 ---
 
 ## 🧠 About Me
 
-I am a Data Analysis student with a strong interest in **machine learning and computer vision.**
-I enjoy working on **real-world problems and building intelligent systems using data.**
+I am a Data Analysis student with a strong interest in **machine learning and computer vision**.
+I enjoy solving **real-world problems** and developing intelligent, data-driven systems.
 
 ---
 
@@ -35,14 +35,14 @@ A deep learning-based system for detecting and segmenting people in **extremely 
 
 ## 🛠️ Technical Skills
 
-* 💻 Languages: Python, C++
-* 🧠 Frameworks: TensorFlow, PyTorch
-* 👁️ Tools: OpenCV
-* 🤖 Expertise: CNNs, Object Detection, Segmentation
-
+* 💻 **Languages:** Python, SQL, C++, R
+* 🧠 **Frameworks:** TensorFlow, PyTorch
+* 📊 **Data Analysis:** Pandas, NumPy
+* 📈 **Visualization:** Tableau, Matplotlib
+* 👁️ **Tools:** OpenCV
+* 🤖 **Expertise:** Deep Learning (CNNs), Object Detection, Image Segmentation
 
 ---
-
 
 ## 📫 Contact
 
