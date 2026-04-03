@@ -1,50 +1,51 @@
-# 👋 Hi, I'm Hassan
+# 👋 Hi, I'm Hridoy Hassan
 
-🎯 AI Engineer | Computer Vision | Deep Learning
-📍 Based in Germany
+🎯 **Data Analyts| AI | Computer Vision | Deep Learning**
+📍 Germany
 
 ---
 
 ## 🧠 About Me
 
-I am passionate about building intelligent systems using deep learning and computer vision.
-Currently working on real-time video analytics and crowd analysis systems.
+I am a Data Analysis student with a strong interest in **machine learning and computer vision.**
+I enjoy working on **real-world problems and building intelligent systems using data.**
 
 ---
 
 ## 🔬 Research Interests
 
-* Computer Vision
-* Deep Learning
-* Crowd Analysis
-* Video Analytics
+📊 Data Analysis
+🤖 Machine Learning
+👁️ Computer Vision
+📈 Data-driven Applications
 
 ---
 
 ## 🚀 Featured Project
 
-### Crowd Pose Detection in Massive Gatherings
+### 🧍 Crowd Pose Detection in Massive Gatherings
 
-A deep learning-based system for detecting and segmenting people in extremely dense crowds using Mask R-CNN.
+A deep learning-based system for detecting and segmenting people in **extremely dense crowds** using Mask R-CNN.
+
+🔹 Real-time video processing
+🔹 High-accuracy segmentation
+🔹 Designed for large-scale events like Hajj
 
 ---
 
 ## 🛠️ Technical Skills
 
-* Python, C++
-* TensorFlow, PyTorch
-* OpenCV
-* Deep Learning (CNN-based models)
+* 💻 Languages: Python, C++
+* 🧠 Frameworks: TensorFlow, PyTorch
+* 👁️ Tools: OpenCV
+* 🤖 Expertise: CNNs, Object Detection, Segmentation
+
 
 ---
 
-## 📊 GitHub Stats
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHassanHub\&show_icons=true)
-
----
 
 ## 📫 Contact
 
-* LinkedIn: (add later)
-* Email: (optional)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/iamhridoyhassan)
+* 📧 [iamhridoyhassan@gmail.com](mailto:iamhridoyhassan@gmail.com)
+
