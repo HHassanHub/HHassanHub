@@ -24,22 +24,22 @@ I enjoy solving **Real-world problems** and developing intelligent, data-driven 
 
 ### 🧍 Crowd Pose Detection in Massive Gatherings
 
-A deep learning-based system for detecting and segmenting people in **extremely dense crowds** using Mask R-CNN.
+A deep learning-based system for detecting and segmenting people in **Extremely Dense Crowds** using **Mask R-CNN**.
 
-🔹 Real-time video processing
-🔹 High-accuracy segmentation
-🔹 Designed for large-scale events like Hajj
+- **Real-time video processing**
+- **High-accuracy segmentation**
+- **Designed for large-scale events like Hajj**
 
 ---
 
 ## 🛠️ Technical Skills
 
-* 💻 **Languages:** Python, SQL, C++, R
-* 🧠 **Frameworks:** TensorFlow, PyTorch
-* 📊 **Data Analysis:** Pandas, NumPy
-* 📈 **Visualization:** Tableau, Matplotlib
-* 👁️ **Tools:** OpenCV
-* 🤖 **Expertise:** Deep Learning (CNNs), Object Detection, Image Segmentation
+- **Languages:** Python, SQL, C++, R
+- **Frameworks:** TensorFlow, PyTorch
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Tableau, Matplotlib
+- **Tools:** OpenCV
+- **Expertise:** Deep Learning (CNNs), Object Detection, Image Segmentation
 
 ---
 
