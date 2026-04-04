@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Hridoy Hassan
 
-🎯 **Data Analyts| AI | Computer Vision | Deep Learning**
+**Data Analyts| Computer Science & Informatics | AI | Computer Vision | Deep Learning**
 📍 **Germany**
 
 ---
 
-## 🧠 About Me
+## 📌 About Me
 
-I am a Data Analysis student with a strong interest in **machine learning and computer vision**.
-I enjoy solving **real-world problems** and developing intelligent, data-driven systems.
+I am a Bachelor student at Berlin School of Business and Innovation with a strong interest in **Data Analysis**, **Machine Learning and Computer Vision**.
+I enjoy solving **Real-world problems** and developing intelligent, data-driven systems.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Skills & Interests
 
-📊 Data Analysis
-🤖 Machine Learning
-👁️ Computer Vision
-📈 Data-driven Applications
-
+- **Data Analysis**  
+- **Machine Learning**  
+- **Computer Vision**  
+- **Data-driven Applications**  
 ---
 
 ## 🚀 Featured Project
