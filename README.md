@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hridoy Hassan
 
-**Data Analyts| Computer Science & Informatics | AI | Computer Vision | Deep Learning**
-📍 **Germany**
+**Computer Science & Informatics | Data Analyts | AI | Machine Learning and Computer Vision | Deep Learning**
+📍 **Berlin, Germany**
 
 ---
 
-## 📌 About Me
+## 📌 About Myself
 
 I am a Bachelor student at Berlin School of Business and Innovation with a strong interest in **Data Analysis**, **Machine Learning and Computer Vision**.
 I enjoy solving **Real-world problems** and developing intelligent, data-driven systems.
@@ -40,6 +40,9 @@ A deep learning-based system for detecting and segmenting people in **Extremely 
 - **Visualization:** Tableau, Matplotlib
 - **Tools:** OpenCV
 - **Expertise:** Deep Learning (CNNs), Object Detection, Image Segmentation
+
+---
+## Extracurricular activities and Awards
 
 ---
 
